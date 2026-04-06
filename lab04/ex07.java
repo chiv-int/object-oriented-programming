@@ -107,7 +107,7 @@ class TelecomStudent extends ITStudent {
         System.out.println("  Network: " + networkType);
     }
 }
-
+        
 public class ex07 {
     public static void main(String[] args) {
 
